@@ -12,3 +12,15 @@
 	border-radius: 25px;
 	border-width: 3px;
 }
+
+.jumbotron {
+	background-image: url(img/event.jpg);
+	background-repeat: no-repeat;
+	background-position: right;
+	background-color: #ffe6be;
+}
+
+.btn-purple {
+	background-color: #783b5a;
+	color: white;
+}
